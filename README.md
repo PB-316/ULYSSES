@@ -21,19 +21,16 @@ It is documented across two key publications:
 ## 🌌 Scientific Background
 
 The baryon asymmetry is measured as the baryon-to-photon ratio:  
-\[
-\eta_B \approx 6 \times 10^{-10}
-\]
+
+$$\eta_B \approx 6 \times 10^{-10}$$
 
 **Leptogenesis** explains this asymmetry via CP-violating decays of heavy right-handed neutrinos (RHNs) in the early Universe. These decays produce a net lepton number, which electroweak sphalerons convert to baryon number.
 
 ULYSSES implements this through coupled differential equations:
 
-\[
-\frac{dN_N}{dz} = -D (N_N - N_N^{\text{eq}}), \quad \frac{dN_{B-L}}{dz} = \varepsilon D (N_N - N_N^{\text{eq}}) - W N_{B-L}
-\]
+$$\frac{dN_N}{dz} = -D (N_N - N_N^{\text{eq}}), \quad \frac{dN_{B-L}}{dz} = \varepsilon D (N_N - N_N^{\text{eq}}) - W N_{B-L}$$
 
-with temperature parameter \( z = M_1 / T \).
+with temperature parameter $$ z = M_1 / T $$.
 
 ---
 
