@@ -30,7 +30,7 @@ ULYSSES implements this through coupled differential equations:
 
 $$\frac{dN_N}{dz} = -D (N_N - N_N^{\text{eq}}), \quad \frac{dN_{B-L}}{dz} = \varepsilon D (N_N - N_N^{\text{eq}}) - W N_{B-L}$$
 
-with temperature parameter $$ z = M_1 / T $$.
+with temperature parameter $$z = M_1 / T$$.
 
 ---
 
