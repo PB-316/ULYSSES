@@ -1,12 +1,14 @@
+
+<p align="center">
+  <img src="Ulysses-logo.png" alt="ULYSSES logo" width="300">
+</p>
+
 # ULYSSES: Universal LeptogeneSiS Equation Solver
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ReadTheDocs](https://readthedocs.org/projects/ulysses-universal-leptogenesis-equation-solver/badge/?version=latest)](https://ulysses-universal-leptogenesis-equation-solver.readthedocs.io/en/latest/)
 
 
-<p align="center">
-  <img src="Ulysses-logo.svg" alt="ULYSSES logo" width="200">
-</p>
 
 
 ## 📘 Introduction
