@@ -1,7 +1,7 @@
 # ULYSSES: Universal LeptogeneSiS Equation Solver
 
 <p align="center">
-  <img src="Ulysses-logo-2.svg" alt="ULYSSES logo" width="200">
+  <img src="Ulysses-logo.svg" alt="ULYSSES logo" width="200">
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
