@@ -157,8 +157,8 @@ Below is the full list of built-in physics models available in ULYSSES, along wi
 | `2RES`      | `Res.dat`          | 2BE3F in the resonant regime                              |
 | `2RESsp`    | `Res.dat`          | 2RES including spectator processes                        |
 | `2RESsp`    | `Res.dat`          | 2RES including spectator processes                        |
-| `BEARS`     | `2RHNosc.dat`      | Temperture Independent ARS                                |
-| `BEARS_INTERP` | `2RHNosc.dat`      | Temperture Dependent ARS                                |
+| `BEARS`     | `2RHNosc.dat`      | Temperature Independent ARS                                |
+| `BEARS_INTERP` | `2RHNosc.dat`      | Temperature Dependent ARS                                |
 
 ---
 
