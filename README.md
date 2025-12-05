@@ -72,7 +72,7 @@ the package from a local clone of the GitHub repository:
 
 1. Clone the repository from GitHub:
 ```bash
-git clone hps://github.com/earlyuniverse/ulysses.git
+git clone https://github.com/earlyuniverse/ulysses.git
 ```
 2. Navigate into the newly created directory:
 ```bash
